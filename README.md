@@ -1,7 +1,7 @@
 # Containers
 
-![Containers](images/Containers.png)
+![Containers](Images/Containers.png)
 
 # Images
 
-![Images](images/Images.png)
+![Images](Images/Images.png)
